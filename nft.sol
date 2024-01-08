@@ -1,0 +1,5 @@
+{
+"name":"Pikachu Art",
+"description":"Pika pika pikachuuuu"
+"image":"ipfs://bafkreiao5yvesfpncfcscwabbscyfy63uvupvz7e24fq4nmm6snejoxd3m"
+}
